@@ -2,7 +2,6 @@
 
 ##  Getting Started
   
-### Run
-  npm i
-  npm run runit
-  
+- Run
+ -- npm i
+ -- npm run runit
