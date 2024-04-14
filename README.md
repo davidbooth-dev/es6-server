@@ -1,8 +1,8 @@
-- Bare Bones es6 Node Server
+# Bare Bones es6 Node Server
 
-  Getting Started
+##  Getting Started
   
--- Run
+### Run
   npm i
   npm run runit
   
